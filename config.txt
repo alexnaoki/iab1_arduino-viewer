@@ -1,0 +1,2 @@
+Dados_da_Estacao: C:\Users\User\Desktop\dimaghi\DadosEstacao
+Dados_do_Arduino: C:\Users\User\Desktop\dimaghi\DadosArduino
